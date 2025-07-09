@@ -1,4 +1,4 @@
-# 🌦️ WeatherSphere
+# 🌦️ WeatherCast
 
 A sleek and modern weather app built with **React**, **Vite**, **Tailwind CSS**, and **OpenWeather API**.  
 Displays real-time weather, dynamic backgrounds based on conditions, a 5-day forecast, and an interactive map.
