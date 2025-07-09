@@ -1,12 +1,40 @@
-# React + Vite
+# 🌦️ WeatherSphere
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern weather app built with **React**, **Vite**, **Tailwind CSS**, and **OpenWeather API**.  
+Displays real-time weather, dynamic backgrounds based on conditions, a 5-day forecast, and an interactive map.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🛰️ Fetches real-time weather data based on your location or search
+- 🎨 Dynamic gradient background changes with weather conditions
+- 📍 Interactive weather map view (toggle on/off)
+- 📅 5-day weather forecast cards
+- ⚡ Smooth animations and polished UI built with Tailwind CSS
+- 🔍 Search any city worldwide
+- 🔑 Secure use of OpenWeather API key via environment variables
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Tech Stack
+
+- **Frontend:** React + Vite
+- **Styling:** Tailwind CSS
+- **Icons:** lucide-react
+- **HTTP Requests:** axios
+- **API:** OpenWeather API
+- **Map:** (Add details if you use Leaflet, Google Maps, etc.)
+- **State Management:** React Hooks
+
+---
+
+## 🛠️ Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/weathersphere.git
+cd weathersphere
+
+# Install dependencies
+npm install
